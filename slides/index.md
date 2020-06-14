@@ -7,6 +7,7 @@ category: slides
 
 # A collection of slides of presentations given as part of my DPhil work
  
+---
 
 * [Automatic verification of stochastic processes](http://natchi92.github.io/slides/viva_presentation.pdf)
 ---
