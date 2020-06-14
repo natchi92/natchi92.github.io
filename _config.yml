@@ -1,6 +1,5 @@
 name: Nathalie Cauchi
 theme: jekyll-theme-cayman
-title: Welcome to Nathalie Cauchi's blog
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 baseurl: /natchi92.github.io
